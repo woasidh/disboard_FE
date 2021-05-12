@@ -16,8 +16,6 @@ import LectureInfoPage from '../components/views/LectureInfoPage/Index'
 import JoinLecturePage from '../components/views/JoinLecturePage/Index'
 import NoticePage from '../components/views/NoticePage/Index'
 import LectureNotePage from '../components/views/LectureNotePage/Index'
-import PfClass from '../components/views/ProfessorClassPage/Index'
-import StClass from '../components/views/StudentClassPage/Index'
 
 
 const baseUrl = "/main/";

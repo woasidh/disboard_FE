@@ -11,8 +11,8 @@ import Theme from "../styles/Theme"
 import MainPage from './views/MainPage/Index.js'
 import Routes from '../Routes/Index'
 import TestPage from './views/TestPage/Index'
-import PfClass from './views/ProfessorClassPage/Index'
-import StClass from './views/StudentClassPage/Index'
+import PfClass from './views/ClassPage/Professor/Index'
+import StClass from './views/ClassPage/Student/Index'
 import SignUp from '../Routes/signup'
 
 function App() {
