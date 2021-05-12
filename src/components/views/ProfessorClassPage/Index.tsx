@@ -390,7 +390,7 @@ function Index(props: TestProps) {
       code: '1234'
     });
     socket.on('newUser', (data: any) => {
-      console.log("data received!!!!!!");
+      console.log("data receivesd!!!!!!");
     });
   }, [])
   if (isLoading) return <Loading type="spin" color='orange'></Loading>
